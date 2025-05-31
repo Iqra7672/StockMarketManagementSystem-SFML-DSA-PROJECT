@@ -48,9 +48,8 @@ Stock Market Management System using C++, SFML for GUI, and Data Structures &amp
 
 ---
 
-## 📂 Project Structure
+##  📂 Project Structure
 
-Project/
-├── main.cpp # Main application with SFML GUI and user interaction
-├── README.md # Project description and setup guide
-├── Roboto.ttf # Font file used in the application
+- **main.cpp** – Main application file containing the SFML GUI and user interaction logic.
+- **README.md** – Project description, setup instructions, and usage guide.
+- **Roboto.ttf** – Roboto font file used for rendering text in the application.
